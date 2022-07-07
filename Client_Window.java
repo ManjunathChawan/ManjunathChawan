@@ -13,7 +13,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Naveen Madiwalar
+ * @author Manjunath Chawan
  */
 public class CLIENT_WINDOW extends javax.swing.JFrame {
 
