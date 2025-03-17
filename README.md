@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Manjunath Chawan! 👋
 
-<!--
-**ManjunathChawan/ManjunathChawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 **Education**: Graduate in Computer Science and Engineering
+- 💻 **Skills**: Programming and problem-solving
+- 🌱 **Interests**: Eager to learn new technologies
+- 📍 **Location**: Hunasagi, Karnataka, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technical Skills  
+
+### 🖥️ Programming & Development  
+- **Programming Languages**: Core Java  
+- **Backend Frameworks**: Spring Boot  
+- **Front-End Technologies**: HTML, CSS, Bootstrap, JavaScript, React.js  
+- **Databases**: MySQL, MongoDB  
+- **Version Control**: Git  
+- **Containerization**: Docker  
+
+### 📊 Productivity & Office Tools  
+- **MS Office**: Word, Excel, PowerPoint  
+
+## 🔥 Projects  
+Here are some of the projects I’ve worked on:  
+
+### 🌟 **Spring Boot Project Management System**  
+A full-fledged project management system with:  
+✔ **Entities**: Customer, Project, and Task  
+✔ **Features**: Full CRUD operations, DTOs, repositories, mappers, and controllers  
+✔ **Database**: MySQL  
+✔ **Tech Stack**: Spring Boot, Java  
+ 
+*(More projects coming soon!)*  
+
+## 📫 Get in Touch  
+- **GitHub**: [Manjunath Chawan](https://github.com/ManjunathChawan)  
+- **LinkedIn**: [Manjunath Chawan](https://in.linkedin.com/in/manjunath-chawan-37986a209)  
+- **Email**: [Your Email Address](chawanmanjunath45@gmail.com) 
+
+Let’s connect and collaborate on exciting projects! 🚀  
