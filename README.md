@@ -35,6 +35,6 @@ A full-fledged project management system with:
 ## 📫 Get in Touch  
 - **GitHub**: [Manjunath Chawan](https://github.com/ManjunathChawan)  
 - **LinkedIn**: [Manjunath Chawan](https://in.linkedin.com/in/manjunath-chawan-37986a209)  
-- **Email**: [Your Email Address](chawanmanjunath45@gmail.com) 
+- **Email**: [Manjunath Chawan](chawanmanjunath45@gmail.com) 
 
 Let’s connect and collaborate on exciting projects! 🚀  
